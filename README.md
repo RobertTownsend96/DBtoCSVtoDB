@@ -2,8 +2,7 @@
 Database to CSV to Database
 
 This requires: 
-	PHP, MySQL 
-	SQLCMD command line utilities (created with version 15.0)
+	PHP, MySQL, SQLCMD command line utilities (created with version 15.0)
 
 Designed for Windows Server 2016
 
